@@ -1,0 +1,11 @@
+Loading genome sequence from ./data/t2t/ncbi_dataset/data/GCA_009914755.4/GCA_009914755.4_T2T-CHM13v2.0_genomic.fna
+Reading pattern sequence from ./data/AluY_consensus_sequence.fa
+Pattern of length 311 loaded
+
+CP068276.2	186833277	186833587	Exact match
+
+CP068271.2	39966041	39966351	Exact match
+
+Exact matches found: 2
+Time taken: 1199.3436 seconds
+Peak memory usage: 36.34 KB

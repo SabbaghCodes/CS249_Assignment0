@@ -1,0 +1,13 @@
+Loading genome sequence from ./data/hg38/ncbi_dataset/data/GCA_000001405.29/GCA_000001405.29_GRCh38.p14_genomic.fna
+Reading pattern sequence from ./data/AluY_consensus_sequence.fa
+Pattern of length 311 loaded
+
+CM000665.2	88629832	88630142	Exact match
+
+CM000669.2	39808489	39808799	Exact match
+
+CM000679.2	18689763	18690073	Exact match
+
+Exact matches found: 3
+Time taken: 1267.6564 seconds
+Peak memory usage: 36.47 KB

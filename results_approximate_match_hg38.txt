@@ -1,0 +1,39 @@
+Loading genome sequence from ./data/hg38/ncbi_dataset/data/GCA_000001405.29/GCA_000001405.29_GRCh38.p14_genomic.fna
+Reading pattern sequence from ./data/AluY_consensus_sequence.fa
+Pattern of length 311 loaded
+
+CM000663.2	85940122	85940432	Approximate match: Substitution
+
+CM000663.2	144846234	144846544	Approximate match: Substitution
+
+CM000665.2	69313857	69314167	Approximate match: Substitution
+
+CM000665.2	88629832	88630142	Exact match
+
+CM000666.2	132898458	132898768	Approximate match: Substitution
+
+CM000667.2	125028156	125028466	Approximate match: Substitution
+
+CM000669.2	39808489	39808799	Exact match
+
+CM000670.2	100790760	100791070	Approximate match: Substitution
+
+CM000674.2	62838639	62838949	Approximate match: Substitution
+
+CM000675.2	63082060	63082370	Approximate match: Substitution
+
+CM000676.2	34836097	34836407	Approximate match: Substitution
+
+CM000677.2	53225105	53225415	Approximate match: Substitution
+
+CM000679.2	18689763	18690073	Exact match
+
+CM000679.2	19593503	19593813	Approximate match: Substitution
+
+CM000683.2	26516833	26517143	Approximate match: Substitution
+
+KI270778.1	54847	55157	Approximate match: Substitution
+
+Total matches with at most 1 mismatch: 16
+Time taken: 16766.2398 seconds
+Peak memory usage: 38.86 KB

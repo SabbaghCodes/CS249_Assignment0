@@ -1,0 +1,47 @@
+Loading genome sequence from ./data/t2t/ncbi_dataset/data/GCA_009914755.4/GCA_009914755.4_T2T-CHM13v2.0_genomic.fna
+Reading pattern sequence from ./data/AluY_consensus_sequence.fa
+Pattern of length 311 loaded
+
+CP068277.2	143946938	143947248	Approximate match: Substitution
+
+CP068277.2	190858894	190859204	Approximate match: Substitution
+
+CP068276.2	186833277	186833587	Exact match
+
+CP068275.2	69350794	69351104	Approximate match: Substitution
+
+CP068274.2	136221657	136221967	Approximate match: Substitution
+
+CP068273.2	126911808	126912118	Approximate match: Substitution
+
+CP068272.2	51234801	51235111	Approximate match: Substitution
+
+CP068272.2	68212687	68212997	Approximate match: Substitution
+
+CP068271.2	39966041	39966351	Exact match
+
+CP068271.2	49189460	49189770	Approximate match: Substitution
+
+CP068270.2	101916771	101917081	Approximate match: Substitution
+
+CP068267.2	86916177	86916487	Approximate match: Substitution
+
+CP068266.2	62817411	62817721	Approximate match: Substitution
+
+CP068266.2	79100751	79101061	Approximate match: Substitution
+
+CP068265.2	66839102	66839412	Approximate match: Substitution
+
+CP068264.2	17947515	17947825	Approximate match: Substitution
+
+CP068261.2	2142369	2142679	Approximate match: Substitution
+
+CP068261.2	19541649	19541959	Approximate match: Substitution
+
+CP068260.2	66026304	66026614	Approximate match: Substitution
+
+CP068257.2	24874951	24875261	Approximate match: Substitution
+
+Total matches with at most 1 mismatch: 20
+Time taken: 16134.1556 seconds
+Peak memory usage: 38.80 KB
