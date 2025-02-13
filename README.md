@@ -1,6 +1,6 @@
-# Code Execution Instructions
+# CS249: Assignment 0 by Abdel Rahman Alsabbagh 
 
-## Overview
+## Overview - Code Execution Instructions
 I developed two versions of the code:
 1. **Normal Version**: Loads the entire genome into memory at once.
    - File: `CS249_Assignment0_Normal_AbdelRahman_Alsabbagh.py`
